@@ -1,40 +1,39 @@
-Project Overview
 
 This project evaluates companies based on corporate governance metrics and visualizes the results in an interactive dashboard.
 It allows users to quickly compare governance practices across companies and identify areas of strength and weakness.
 
-Objectives
+Objectives:
 
-Define key governance metrics.
+1.Define key governance metrics.
 
-Collect governance data from annual reports, corporate filings, and company websites.
+2.Collect governance data from annual reports, corporate filings, and company websites.
 
-Score companies on compliance (binary system: 1 = good practice, 0 = weak practice).
+3.Score companies on compliance (binary system: 1 = good practice, 0 = weak practice).
 
-Build an interactive dashboard to compare governance scores.
+4.Build an interactive dashboard to compare governance scores.
 
-Provide insights and recommendations.
+5.Provide insights and recommendations.
 
 Governance Metrics
 
 The project uses the following 10 governance metrics:
 
-Board Independence
+1.Board Independence
 
-Board Diversity
+2.Board Diversity
 
-CEO and Chairman Separation
+3.CEO and Chairman Separation
 
-Executive Compensation Transparency
+4.Executive Compensation Transparency
 
-Board Meeting Frequency
+5.Board Meeting Frequency
 
-Audit Committee Independence
+6.Audit Committee Independence
 
-Code of Ethics and Conduct
+7.Code of Ethics and Conduct
 
-Shareholder Rights and Voting
+8.Shareholder Rights and Voting
 
-Risk Management Oversight
+9.Risk Management Oversight
 
-Transparency and Disclosure
+10.Transparency and Disclosure
