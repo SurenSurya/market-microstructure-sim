@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load data
-df = pd.read_csv("governance_data.csv")
+df = pd.read_csv("data/governance_data.csv")
 
 st.title("🌍 ESG Governance Scorecard Dashboard")
 
@@ -28,3 +28,4 @@ radar = px.line_polar(
     title=f"Governance Profile: {company}"
 )
 st.plotly_chart(radar)
+
